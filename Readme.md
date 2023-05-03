@@ -7,3 +7,5 @@ qqqqq
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krzzlpzz&count_private=true&show_icons=true&theme=apprentice)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzzlpzz&hide_progress=false&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krzzlpzz&theme=highcontrast&hide_border=true&locale=es&fire=EB5454)](https://git.io/streak-stats)

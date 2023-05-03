@@ -2,3 +2,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/450083541997584386?idleMessage=xao%20pescao.&hideProfile=false&hideBadges=false&hideTimestamp=false&hideStatus=true&hideDiscrim=true)](https://discord.com/users/450083541997584386)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krzzlpzz&count_private=true&show_icons=true&theme=apprentice)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzzlpzz&hide_progress=false&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,6 @@
 qqqqq
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=223arjkxkysohw4c6pfetcori&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=223arjkxkysohw4c6pfetcori&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=223arjkxkysohw4c6pfetcori&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=223arjkxkysohw4c6pfetcori&redirect=true)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/450083541997584386?idleMessage=xao%20pescao.&hideProfile=false&hideBadges=false&hideTimestamp=false&hideStatus=true&hideDiscrim=true)](https://discord.com/users/450083541997584386)
 

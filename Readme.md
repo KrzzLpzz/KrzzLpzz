@@ -2,7 +2,7 @@ qqqqq
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=223arjkxkysohw4c6pfetcori&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=223arjkxkysohw4c6pfetcori&redirect=true)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/450083541997584386?idleMessage=xao%20pescao.&hideProfile=false&hideBadges=false&hideTimestamp=false&hideStatus=true&hideDiscrim=true)](https://discord.com/users/450083541997584386)
+[![Discord Presence](https://lanyard.cnrad.dev/api/450083541997584386?idleMessage=xao%20pescao.&showDisplayName=true&hideStatus=false&hideProfile=false&hideActivity=false)](https://discord.com/users/450083541997584386)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krzzlpzz&count_private=true&show_icons=true&theme=apprentice)
 
